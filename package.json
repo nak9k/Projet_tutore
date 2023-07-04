@@ -1,0 +1,26 @@
+{
+  "name": "projet_tutore",
+  "version": "1.0.0",
+  "description": "Tests web avec Cypress sur OpenCruise",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak9k/Projet_tutore.git"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "Nanako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nak9k/Projet_tutore/issues"
+  },
+  "homepage": "https://github.com/nak9k/Projet_tutore#readme",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
